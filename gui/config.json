@@ -1,0 +1,33 @@
+{
+    "models":[
+        {
+            "name": "Xception",
+            "directory":"C:\\Users\\gabri\\OneDrive - Universidade de Tras-os-Montes e Alto Douro\\UTAD\\2020-2021\\Pesquisa\\Resultados\\modelos\\experimento 7\\Xception",
+            "size":"300, 300",
+            "type":"xception",
+            "last_conv": "block14_sepconv2_act"
+        },
+        {
+            "name": "ResNet-101",
+            "directory":"C:\\Users\\gabri\\OneDrive - Universidade de Tras-os-Montes e Alto Douro\\UTAD\\2020-2021\\Pesquisa\\Resultados\\modelos\\experimento 10\\Resnet101",
+            "size":"300, 300",
+            "type":"resnet101",
+            "last_conv": ""
+        },
+        {
+            "name": "EfficientNet-B3",
+            "directory":"C:\\Users\\gabri\\OneDrive - Universidade de Tras-os-Montes e Alto Douro\\UTAD\\2020-2021\\Pesquisa\\Resultados\\modelos\\experimento 11\\EfficientNet",
+            "size":"300, 300",
+            "type":"efficientnetb3",
+            "last_conv": ""
+        }
+    ],
+    "classes":{
+        "Codega":"CD",
+        "Moscatel Galego":"MG",
+        "Rabigato":"RG",
+        "Tinta Roriz":"TR",
+        "Tinto Cao":"TC",
+        "Touriga Nacional":"TN"
+    }
+}
